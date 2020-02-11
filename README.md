@@ -1,2 +1,4 @@
-# dataworkshop_matrix
+# Dataworkshop Matrix
 https://dataworkshop.eu/matrix
+
+Repozytorium projektu
